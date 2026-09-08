@@ -1,0 +1,2 @@
+kookmin/ROS-TCP-Endpoint:kookmin/xycar_msgs
+-DCATKIN_DEVEL_PREFIX=/home/siwan/xycar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/siwan/xycar_ws/install -G Unix Makefiles
